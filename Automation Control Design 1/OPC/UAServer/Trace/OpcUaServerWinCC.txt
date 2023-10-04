@@ -1,0 +1,10 @@
+21:43:42.139  1578 C++Stack     - EXCEPTION: The network connection has been closed. (0x80ae0000), channel disconnect failed
+21:55:42.093  1578 C++Stack     - EXCEPTION: The network connection has been closed. (0x80ae0000), channel disconnect failed
+22:02:12.094  1578 C++Stack     - EXCEPTION: The network connection has been closed. (0x80ae0000), channel disconnect failed
+22:03:42.000  1578 C++Stack     - EXCEPTION: The network connection has been closed. (0x80ae0000), channel disconnect failed
+22:18:50.752  1574 UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+22:18:50.955  1574 UaLibrary    -   * CServer::dispatch_notification_event - Missing license
+23:08:14.194  154C UaSrvWinCC - ERROR: CRTIBase::GetWinCCProjectState: no runtime project was found, hr=0x80004005
+
+23:08:18.460  154C UaLibrary    -   * CServer::dispatch_notification_event - Missing license
